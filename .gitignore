@@ -13,3 +13,5 @@ lerna-debug.log*
 
 # eslint cache
 .eslintcache
+*.sublime-workspace
+log/capistrano.log
